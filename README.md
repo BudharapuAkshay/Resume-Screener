@@ -40,7 +40,7 @@ pip install smtplib PyPDF2
 #Installation
 Clone the repository:
 
-git clone https://github.com/BudharapuAkshay/resume-screener-app.git 
+git clone https://github.com/BudharapuAkshay/Resume-Screener.git 
 cd resume-screener-app
 Configure the application by updating the following variables in the code:
 
